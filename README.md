@@ -1,3 +1,9 @@
+#Key R scripts for modelling and generating images used in the manuscript detailed below:
+"Neighbourhood street connectivity and hippocampus volume in older adults"
+
+run_stats_modelling.R - Linear mixed effects modelling script
+run_stats_modelling_exposure_entropy.R - LME for second exposure
+
 
 ## Requirements
 
